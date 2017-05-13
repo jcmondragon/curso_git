@@ -24,6 +24,10 @@ html {
  * Customize the background color to match your design.
  */
 
+l {
+	list-style: none;
+}
+
 .p {
 	padding: left;
 }
